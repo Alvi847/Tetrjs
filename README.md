@@ -1,4 +1,4 @@
-# Tetris_js
+Tetrjs
 A little tetris game in javaScript
 
 Cosas que añadir/hacer:
