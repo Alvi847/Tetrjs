@@ -1,5 +1,5 @@
 Tetrjs
-A little tetris game in javaScript
+A little block game in javaScript where you can custom everything
 
 Cosas que añadir/hacer:
   - Mejorar la GUI (Panel de puntuación, que se vea dónde aparecen las piezas)
